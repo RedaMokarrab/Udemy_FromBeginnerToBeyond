@@ -1,0 +1,149 @@
+[{
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movies.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movies.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movies.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movies.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movies.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movies.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movie.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movie.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movie.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movie.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movie.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ChallengeSolution\\Movie.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movie.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movie.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movie.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movies.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movies.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movies.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movies.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movies.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movies.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movie.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movie.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Challenge\\Movie.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstInClasses\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstInClasses",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstInClasses\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstInClasses\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\Account.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\Account.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\Account.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\Account.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\Account.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods2\\Account.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DeclareClassAndObjects\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DeclareClassAndObjects",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DeclareClassAndObjects\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DeclareClassAndObjects\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\AccessModifiers\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\AccessModifiers",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\AccessModifiers\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\AccessModifiers\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\AccessingClassMembers\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\AccessingClassMembers",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\AccessingClassMembers\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\AccessingClassMembers\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DefaultConstructor\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DefaultConstructor",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DefaultConstructor\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DefaultConstructor\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstructorInitializationLists\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstructorInitializationLists",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstructorInitializationLists\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstructorInitializationLists\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ImplementingMethods\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DelegatingConstructors\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DelegatingConstructors",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DelegatingConstructors\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DelegatingConstructors\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DeepCopy\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DeepCopy",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DeepCopy\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DeepCopy\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\CopyConstructor\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\CopyConstructor",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\CopyConstructor\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\CopyConstructor\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\MoveConstructor\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\MoveConstructor",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\MoveConstructor\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\MoveConstructor\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -pedantic  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\Player.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\Player.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\Player.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\Player.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\Player.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\StaticClassMembers\\Player.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstructorsAndDestructors\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstructorsAndDestructors",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstructorsAndDestructors\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ConstructorsAndDestructors\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DefaultConstructorParameters\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DefaultConstructorParameters",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DefaultConstructorParameters\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\DefaultConstructorParameters\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Player.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Player.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Player.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Other_class.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Other_class.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Other_class.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Friend_class.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Friend_class.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Friend_class.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Friend_class.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Friend_class.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Friend_class.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Player.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Player.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Player.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Other_class.h",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Other_class.h -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\Friends\\Other_class.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ShallowCopy\\main.cpp",
+  "directory": "C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ShallowCopy",
+  "command": "clang  -c C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ShallowCopy\\main.cpp -o C:\\Data\\Training\\C++\\Hello_C++_Udemy_Original\\Section13\\ShallowCopy\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }]
